@@ -1,2 +1,2 @@
 # My Workstation
-Tools and configurations in my workstation
+Tools and configurations on my workstation
