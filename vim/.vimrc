@@ -23,13 +23,11 @@ set visualbell
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
-Plugin 'nanotech/jellybeans.vim'
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'The-NERD-Tree'
 Plugin 'ctrlp.vim'
 
 call vundle#end()
-colorscheme jellybeans
 filetype plugin indent on
 
 map <D-t> :CtrlP<CR>
