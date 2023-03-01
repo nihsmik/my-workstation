@@ -10,3 +10,8 @@ Tools and configurations on my workstation
 5. Turn on “Use trackpad for dragging” (or “Enable dragging”).
 6. From the pop-up menu, choose the “three finger drag” dragging style.
 7. Click OK.
+
+## Homebrew
+* ccat
+* fzf
+* httpie
